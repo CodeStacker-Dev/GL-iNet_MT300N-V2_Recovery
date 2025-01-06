@@ -2,28 +2,6 @@ GL-iNet_MT300N-V2_Recovery/
 │
 ├── README.md (✅)
 ├── LICENSE (✅)
-├── firmware/              # All firmware-related files
-│   ├── original_firmware.bin   # Factory firmware image
-│   ├── custom_firmware/        # Optional folder for custom firmware
-│   │   ├── openwrt_version.bin
-│   │   └── other_custom_fw.bin
-│   └── firmware_changelog.txt  # Logs of firmware changes and versions
-│
-├── uboot/                # Bootloader files
-│   ├── original_uboot.bin
-│   ├── uboot_recovery_tool.zip # Tools for recovering uboot
-│   └── uboot_docs.md          # Documentation for using and flashing uboot
-│
-├── drivers/              # Driver files
-│   ├── wifi/
-│   │   ├── original_wifi_driver.bin
-│   │   └── driver_docs.md     # Instructions on reinstalling drivers
-│   └── ethernet/
-│       ├── original_ethernet_driver.bin
-GL-iNet_MT300N-V2_Recovery/
-│
-├── README.md (✅)
-├── LICENSE (✅)
 ├── firmware/ - All firmware-related files
 │   ├── original_firmware.bin - Factory firmware image
 │   ├── custom_firmware/ - Optional folder for custom firmware
