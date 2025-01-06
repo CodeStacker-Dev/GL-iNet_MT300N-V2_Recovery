@@ -1,4 +1,4 @@
-# GL-iNet_MT300N-V2_Recovery
+# GL-iNet_MT300N-V2_Factory
 This repository is dedicated to providing a reliable source for the factory original uboot, firmware, and WiFi radio drivers for the GL.iNet MT300N-V2 ("Mango") router. The goal is to assist users who may have bricked, modified, or otherwise altered their device and wish to revert it to its original state.
 
 Why This Repository Was Created
