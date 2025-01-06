@@ -1,7 +1,7 @@
 GL-iNet_MT300N-V2_Recovery/
 │
-├── README.md
-├── LICENSE
+├── README.md (✅)
+├── LICENSE (✅)
 ├── firmware/              # All firmware-related files
 │   ├── original_firmware.bin   # Factory firmware image
 │   ├── custom_firmware/        # Optional folder for custom firmware
