@@ -48,7 +48,7 @@ This guide walks you through the process of recovering or flashing Uboot on your
    - Keep holding the reset button for **6 seconds** until the router enters Uboot recovery mode.
 
 3. **Access the Interface**:
-   - Open a web browser and navigate to `http://192.168.1.1`.
+   - Open a web browser and navigate to `http://192.168.1.1/uboot.html`.
    - You should see the **Uboot recovery web interface**.
 
 ---
