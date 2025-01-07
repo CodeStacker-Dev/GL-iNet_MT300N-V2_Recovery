@@ -29,7 +29,7 @@ This guide walks you through the process of recovering or flashing Uboot on your
      git clone https://github.com/CodeStacker-Dev/GL-iNet_MT300N-V2_Factory.git
      ```
 
-   - Navigate to `GL-iNet_MT300N-V2_Factory/uboot/` directory and locate the `uboot.bin` file.
+   - Navigate to `GL-iNet_MT300N-V2_Factory/uboot/` directory and locate the `uboot.bin` size `192KiB` file.
 
 2. **Set Up Your Network**:
    - Use an Ethernet cable to connect your computer directly to the router.
@@ -39,7 +39,7 @@ This guide walks you through the process of recovering or flashing Uboot on your
    - Set your computer's Ethernet adapter to a static IP:
      - **IP Address**: `192.168.1.2`
      - **Subnet Mask**: `255.255.255.0`
-     - **Gateway**: `Leave Blank`.
+     - **Gateway**: `Leave Blank`
 
 ---
 
