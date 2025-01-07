@@ -1,0 +1,7 @@
+
+# Exclude temporary or sensitive files
+*.tmp
+*.log
+.DS_Store
+node_modules/
+dist/
