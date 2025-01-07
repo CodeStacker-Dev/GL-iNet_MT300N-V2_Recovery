@@ -39,6 +39,7 @@ This guide walks you through the process of recovering or flashing Uboot on your
    - Set your computer's Ethernet adapter to a static IP:
      - **IP Address**: `192.168.1.2`
      - **Subnet Mask**: `255.255.255.0`
+     - **Gateway**: `Leave Blank`.
 
 ---
 
