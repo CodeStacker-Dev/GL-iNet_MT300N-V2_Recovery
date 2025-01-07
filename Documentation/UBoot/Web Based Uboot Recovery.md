@@ -13,10 +13,10 @@ This guide walks you through the process of recovering or flashing Uboot on your
    - Power supply for the router
 
 2. **Software:**
-   - A modern web browser (e.g., Chrome, Firefox, Edge)
+   - A modern web browser (e.g., `Chrome`, `Firefox`, `Edge`)
 
 3. **Files:**
-   - The Uboot file (`uboot.bin`) from this repository.
+   - The Uboot file `uboot.bin` from `GL-iNet_MT300N-V2_Factory/uboot/`.
 
 ---
 
