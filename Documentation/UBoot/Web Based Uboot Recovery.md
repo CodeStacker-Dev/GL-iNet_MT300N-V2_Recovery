@@ -5,7 +5,8 @@ This guide walks you through the process of recovering or flashing Uboot on your
 
 ---
 
-## Requirements:
+## Requirements
+
 1. **Hardware:**
    - GL.iNet MT300N-V2 router
    - Ethernet cable
@@ -20,12 +21,15 @@ This guide walks you through the process of recovering or flashing Uboot on your
 ---
 
 ## Step 1: Prepare the Environment
+
 1. **Download the Uboot File**:
    - Clone this repository to your computer:
+
      ```bash
      git clone https://github.com/CodeStacker-Dev/GL-iNet_MT300N-V2_Factory.git
      ```
-   - Navigate to the repository directory and locate the `uboot.bin` file.
+
+   - Navigate to `GL-iNet_MT300N-V2_Factory/uboot/` directory and locate the `uboot.bin` file.
 
 2. **Set Up Your Network**:
    - Use an Ethernet cable to connect your computer directly to the router.
@@ -39,6 +43,7 @@ This guide walks you through the process of recovering or flashing Uboot on your
 ---
 
 ## Step 2: Access the Web-Based Uboot Interface
+
 1. **Power Off the Router**:
    - Unplug the power cable from the router.
 
@@ -48,12 +53,13 @@ This guide walks you through the process of recovering or flashing Uboot on your
    - Keep holding the reset button for **6 seconds** until the router enters Uboot recovery mode.
 
 3. **Access the Interface**:
-   - Open a web browser and navigate to `http://192.168.1.1`.
+   - Open a web browser and navigate to `http://192.168.1.1/uboot.html`.
    - You should see the **Uboot recovery web interface**.
 
 ---
 
 ## Step 3: Flash the Uboot File
+
 1. **Upload the Uboot File**:
    - In the Uboot recovery interface, locate the "Choose File" or "Browse" button.
    - Select the `uboot.bin` file you downloaded earlier.
@@ -68,12 +74,15 @@ This guide walks you through the process of recovering or flashing Uboot on your
 ---
 
 ## Step 4: Verify the Installation
-1. After rebooting, access the router's Uboot web interface again by navigating to `http://192.168.1.1`.
-2. Verify that the Uboot environment is functioning correctly.
+
+1. Repeat step `2:2 ~ Enter Recovery Mode`.
+2. After rebooting, access the router's Uboot web interface again by navigating to `http://192.168.1.1`.
+3. Verify that the Uboot environment is functioning correctly.
 
 ---
 
-## Troubleshooting:
+## Troubleshooting
+
 - If the Uboot web interface does not load:
   - Double-check your computer's static IP configuration.
   - Ensure the Ethernet cable is securely connected.
@@ -81,3 +90,5 @@ This guide walks you through the process of recovering or flashing Uboot on your
 - If the upload fails:
   - Verify the integrity of the `uboot.bin` file.
   - Try using another method, such as TFTP or CH341A (guides available in this repository).
+  
+---
