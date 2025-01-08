@@ -4,7 +4,7 @@ All notable changes to this project will be documented here.
 
 ## [2025-01-08]
 
-- oRDERED ANOTHER gl.InET mt300n-v2 From Amazon. Arriving 09/01/2025 [UK]
+- Ordered Another GL.iNet From Amazon. Arriving 09/01/2025 [UK]
 - Extracting firmware and U-Boot from the GL.iNet MT300N-V2 router. 14:38PM  (FAILED) ❌
 - Initial repository setup with factory-original firmware, U-Boot, and documentation. 14:39PM  
 
