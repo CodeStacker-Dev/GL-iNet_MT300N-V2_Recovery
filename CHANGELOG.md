@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented here.
 
+## [2025-01-15]
+- Firmware Successfully Extracted. 12:51PM
+- U-Boot Successfully Extracted. 12:51PM
+- Factory Config Successfully Extracted. 12:51PM
+
 ## [2025-01-08]
 
 - Ordered Another GL.iNet From Amazon. Arriving 09/01/2025 [UK]
